@@ -1,5 +1,5 @@
 # This dockerfile is built from the parent dir, hence the addition of `admissioncontroller/` everywhere
-FROM python:3.8-slim
+FROM python:3.13.0b1-slim
 
 ENV RUN_IN_DOCKER=True
 
