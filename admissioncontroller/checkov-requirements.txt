@@ -1,1 +1,2 @@
-checkov==2.2.95
+checkov==3.2.449
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
